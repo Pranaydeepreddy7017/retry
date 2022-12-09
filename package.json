@@ -6,13 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "commit": "cz"
+    "commit": "cz",
+    "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0",
     "commitizen": "^4.2.6",
     "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.2",
     "standard-version": "^9.5.0"
   },
   "config": {
