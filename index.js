@@ -1,1 +1,1 @@
-console.log('commitzen');
+console.log('cotzen');
