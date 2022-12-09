@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/Pranaydeepreddy7017/retry/compare/v2.2.0...v2.3.0) (2022-12-09)
+
+
+### Features
+
+* try feat ([d41f9dd](https://github.com/Pranaydeepreddy7017/retry/commit/d41f9ddd8b16777251184f6f5fe7eb9a9bcf4a39))
+
 ## [2.2.0](https://github.com/Pranaydeepreddy7017/retry/compare/v2.1.1...v2.2.0) (2022-12-09)
 
 
