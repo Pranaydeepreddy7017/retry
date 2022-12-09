@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/Pranaydeepreddy7017/retry/compare/v4.0.0...v4.1.0) (2022-12-09)
+
+
+### Features
+
+* this will be displayed ([de2634a](https://github.com/Pranaydeepreddy7017/retry/commit/de2634a48323a841de0f9b71d161a3cf2e046e61))
+
 ## [4.0.0](https://github.com/Pranaydeepreddy7017/retry/compare/v3.0.0...v4.0.0) (2022-12-09)
 
 
