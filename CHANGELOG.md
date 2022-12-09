@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/Pranaydeepreddy7017/retry/compare/v3.0.0...v4.0.0) (2022-12-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* FOOTER
+
+### Features
+
+* feat ([dd9e001](https://github.com/Pranaydeepreddy7017/retry/commit/dd9e0016ed3ddb0cc95a22ee6bd570be468228c9))
+
 ## [3.0.0](https://github.com/Pranaydeepreddy7017/retry/compare/v2.3.0...v3.0.0) (2022-12-09)
 
 
