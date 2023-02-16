@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.0](https://github.com/Pranaydeepreddy7017/retry/compare/v4.1.0...v4.2.0) (2023-02-16)
+
+
+### Features
+
+* try for demo ([d7c588e](https://github.com/Pranaydeepreddy7017/retry/commit/d7c588eed52eac0270325731f82308eea2913d10))
+
+
+### Bug Fixes
+
+* yup a fix right here ([ff903a8](https://github.com/Pranaydeepreddy7017/retry/commit/ff903a832b298b9d2946e72ca1172e057f72579a))
+
 ## [4.1.0](https://github.com/Pranaydeepreddy7017/retry/compare/v4.0.0...v4.1.0) (2022-12-09)
 
 
